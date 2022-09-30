@@ -1,0 +1,183 @@
+{
+    "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+    "basics": {
+        "name": "Ian Milan",
+        "label": "Developer",
+        "image": "https://avatars.githubusercontent.com/u/98004719?v=4",
+        "email": "milanian775@gmail.com",
+        "phone": "(616) 570-4603",
+        "url": "https://devmilanian.github.io/Personal-Portfolio/",
+        "summary": "Programming Instructor & Aspiring Entrepreneur who loves using technology to solve complex problems.",
+        "location": {
+            "address": "",
+            "postalCode": "",
+            "city": "Rockford",
+            "countryCode": "US",
+            "region": "Michigan"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "DevMilanIan",
+                "url": "https://github.com/DevMilanIan"
+            },
+            {
+                "network": "Discord",
+                "username": "IanM#2441",
+                "url": "https://discord.com"
+            }
+        ]
+    },
+    "work": [
+        {
+            "name": "Code on Wheels",
+            "location": "Grand Rapids, Michigan",
+            "description": "Instrctor for summer STEM Academy",
+            "position": "Instructor",
+            "url": "https://www.codeonwheels.org",
+            "startDate": "2022-05-01",
+            "endDate": "2022-07-15",
+            "summary": "Working with Code on Wheels to show young kids the abilities of a computer just as I had once been taught is something truly exceptional.",
+            "highlights": [
+                "Devloped curriculum....",
+                "Applied TPAC concepts in the classroom....",
+                "Actively collaborated with staff to...."
+            ]
+        }
+    ],
+    "volunteer": [
+        {
+            "organization": "",
+            "position": "",
+            "url": "https://example.com",
+            "startDate": "2000-01-01",
+            "endDate": "2000-12-31",
+            "summary": "",
+            "highlights": [
+                "",
+                ""
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Grand Valley State University",
+            "url": "https://www.gvsu.edu",
+            "area": "Computer Information Systems",
+            "studyType": "Bachelor (Incomplete)",
+            "startDate": "2021-08-30",
+            "score": "3.2",
+            "courses": [
+                "STA215 - Applied Statistics",
+                "CIS162 - Java Introduction"
+            ]
+        },
+        {
+            "institution": "Northview High School",
+            "url": "https://www.nvps.net",
+            "area": "General Education",
+            "studyType": "High School Diploma",
+            "startDate": "2017-08-28",
+            "endDate": "2021-05-28",
+            "courses": [
+                "AP Computer Science Principles - 4.0",
+                "College Algebra - 3.4"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "Busines & Computer Department Honoree",
+            "date": "2021-05-28",
+            "awarder": "Northview High School",
+            "summary": "Selected from the 2021 graduating class."
+        }
+    ],
+    "certificates": [
+        {
+            "name": "",
+            "date": "2000-01-01",
+            "url": "https://example.com",
+            "issuer": ""
+        }
+    ],
+    "publications": [
+        {
+            "name": "",
+            "publisher": "",
+            "releaseDate": "2000-01-01",
+            "url": "https://www.example.com",
+            "summary": ""
+        }
+    ],
+    "skills": [
+        {
+            "name": "Web Development",
+            "level": "Master",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript"
+            ]
+        },
+        {
+            "name": "Communication",
+            "level": "Proficient",
+            "keywords": [
+                "Slack",
+                "Email",
+                "Discord"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Marching Band",
+            "keywords": [
+                "Instruments",
+                "Music"
+            ]
+        }
+    ],
+    "references": [
+        {
+            "name": "",
+            "reference": ""
+        }
+    ],
+    "projects": [
+        {
+            "name": "SWBA",
+            "description": "Developed informational busines directory website.",
+            "highlights": [
+                "Responsive scaling",
+                "Interactive UX",
+                "Hands-on Learning"
+            ],
+            "keywords": [
+                "React Framework",
+                "TailwindCSS",
+                "Vercel Deployment"
+            ],
+            "startDate": "2022-07-22",
+            "endDate": "2022-09-30",
+            "url": "https://example.com",
+            "roles": [
+                "Developer"
+            ],
+            "entity": "Aztech LLC",
+            "type": "Website"
+        }
+    ],
+    "meta": {
+        "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+        "version": "v1.0.0",
+        "lastModified": "2017-12-24T15:53:00"
+    }
+}
